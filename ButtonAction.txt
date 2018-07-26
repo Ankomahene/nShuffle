@@ -1,0 +1,6 @@
+
+
+private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {                                         
+        oneToFive shf = new oneToFive();
+        shf.OnButtons(btn1, btn2, btn3, btn4, btn5);
+    } 
